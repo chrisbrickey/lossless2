@@ -5,6 +5,9 @@ __pycache__
 .idea
 .qodo
 
+# Environment
+.python-version
+
 # Jupyter
 .ipynb_checkpoints
 **/*.ipynb.layout
