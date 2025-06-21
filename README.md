@@ -8,10 +8,17 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * TBD
 
 ## Build
-* Launch lab: `jupyter-lab`
-* Launch notebook: `jupyter notebook`
+* Launch lab: `uv run --with jupyter jupyter lab`
 
 ## Requirements
 * Jupyter
 * NumPy
 * Matplotlib
+* TensorFlow
+* Keras
+
+## Environment 
+
+### UV environment and package manager
+* `uv init`
+* `uv add <package name>`
