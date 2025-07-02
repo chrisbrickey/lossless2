@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "matplotlib>=3.10.3",
+    "scikit-learn>=1.7.0",
     "tensorflow>=2.19.0",
 ]
