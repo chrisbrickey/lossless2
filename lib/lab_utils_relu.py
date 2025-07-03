@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 plt.style.use('./deeplearning.mplstyle')
 from matplotlib.widgets import Slider
-from lib.lab_utils_common import dlc
+from lab_utils_common import dlc
 
 def widgvis(fig):
     fig.canvas.toolbar_visible = False
