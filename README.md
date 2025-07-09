@@ -16,6 +16,10 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Matplotlib
 * TensorFlow
 * Keras
+* Pandas
+* NetworkX
+* Pydot
+* Graphviz
 
 ## Environment 
 
