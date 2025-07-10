@@ -20,6 +20,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * NetworkX
 * Pydot
 * Graphviz
+* XGBoost
 
 ## Environment 
 
