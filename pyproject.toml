@@ -13,4 +13,5 @@ dependencies = [
     "scikit-learn>=1.7.0",
     "sympy>=1.14.0",
     "tensorflow>=2.19.0",
+    "xgboost>=3.0.2",
 ]
